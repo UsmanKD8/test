@@ -1,0 +1,11 @@
+.navbar{
+    flex-wrap: wrap;
+    border-bottom: 1px solid;
+    padding-left: 6px;
+    padding-right: 6px;
+    margin: auto;
+    max-width: 1400px;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+}
